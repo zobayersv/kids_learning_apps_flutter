@@ -1,17 +1,4 @@
-# loadshad
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# kids_learning_apps_flutter
+<img width="2868" height="1320" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-11-04 at 15 11 28" src="https://github.com/user-attachments/assets/6cf7f320-4f1c-436c-8409-7858d20c2649" />
+<img width="2868" height="1320" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-11-04 at 15 11 31" src="https://github.com/user-attachments/assets/d8ab1e67-12cb-47f0-a37a-bcab1471415e" />
+<img width="2868" height="1320" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-11-04 at 15 11 35" src="https://github.com/user-attachments/assets/a7aec767-ca95-403f-874c-51b71df9f711" />
+<img width="2868" height="1320" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-11-04 at 15 11 39" src="https://github.com/user-attachments/assets/72edee00-4323-4fa7-9161-08d468bd145c" />
