@@ -1,0 +1,205 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "category_id": "fruits",
+            "category_name": "ফলমূল",
+            "category_name_en": "Fruits",
+            "levels": [
+                {
+                    "id": "f_1",
+                    "level_number": 1,
+                    "image_url": "assets/images/fruits/mango.jpg",
+                    "correct_word": "আম",
+                    "correct_tiles": ["আ", "ম"],
+                    "jumbled_tiles": ["ক", "আ", "ল", "ম", "প", "র"],
+                    "correct_word_en": "MANGO",
+                    "correct_tiles_en": ["M", "A", "N", "G", "O"],
+                    "jumbled_tiles_en": ["N", "M", "G", "O", "A", "B", "R"]
+                },
+                {
+                    "id": "f_2",
+                    "level_number": 2,
+                    "image_url": "assets/images/fruits/apple.png",
+                    "correct_word": "আপেল",
+                    "correct_tiles": ["আ", "পে", "ল"],
+                    "jumbled_tiles": ["ল", "ট", "আ", "পে", "ম", "ব"],
+                    "correct_word_en": "APPLE",
+                    "correct_tiles_en": ["A", "P", "P", "L", "E"],
+                    "jumbled_tiles_en": ["P", "A", "E", "P", "L", "T", "S"]
+                },
+                {
+                    "id": "f_3",
+                    "level_number": 3,
+                    "image_url": "assets/images/fruits/banana.png",
+                    "correct_word": "কলা",
+                    "correct_tiles": ["ক", "লা"],
+                    "jumbled_tiles": ["চ", "লা", "ব", "ক", "ট", "দ"],
+                    "correct_word_en": "BANANA",
+                    "correct_tiles_en": ["B", "A", "N", "A", "N", "A"],
+                    "jumbled_tiles_en": ["A", "N", "B", "A", "N", "A", "C"]
+                },
+                {
+                    "id": "f_4",
+                    "level_number": 4,
+                    "image_url": "assets/images/fruits/jackfruit.png",
+                    "correct_word": "কাঁঠাল",
+                    "correct_tiles": ["কাঁ", "ঠা", "ল"],
+                    "jumbled_tiles": ["ল", "র", "কাঁ", "ব", "ঠা", "স"],
+                    "correct_word_en": "JACKFRUIT",
+                    "correct_tiles_en": ["J", "A", "C", "K", "F", "R", "U", "I", "T"],
+                    "jumbled_tiles_en": ["A", "J", "K", "C", "R", "F", "I", "U", "T"]
+                },
+                {
+                    "id": "f_5",
+                    "level_number": 5,
+                    "image_url": "assets/images/fruits/orange.png",
+                    "correct_word": "কমলা",
+                    "correct_tiles": ["ক", "ম", "লা"],
+                    "jumbled_tiles": ["ম", "প", "ক", "লা", "ট", "র"],
+                    "correct_word_en": "ORANGE",
+                    "correct_tiles_en": ["O", "R", "A", "N", "G", "E"],
+                    "jumbled_tiles_en": ["R", "O", "N", "A", "E", "G", "T"]
+                }
+            ]
+        },
+        {
+            "category_id": "animals",
+            "category_name": "পশুপাখি",
+            "category_name_en": "Animals",
+            "levels": [
+                {
+                    "id": "a_1",
+                    "level_number": 1,
+                    "image_url": "assets/images/animals/cat.png",
+                    "correct_word": "বিড়াল",
+                    "correct_tiles": ["বি", "ড়া", "ল"],
+                    "jumbled_tiles": ["ড়া", "ক", "বি", "ল", "ম", "ত"],
+                    "correct_word_en": "CAT",
+                    "correct_tiles_en": ["C", "A", "T"],
+                    "jumbled_tiles_en": ["T", "B", "C", "A", "M", "P"]
+                },
+                {
+                    "id": "a_2",
+                    "level_number": 2,
+                    "image_url": "assets/images/animals/tiger.png",
+                    "correct_word": "বাঘ",
+                    "correct_tiles": ["বা", "ঘ"],
+                    "jumbled_tiles": ["ঘ", "ন", "বা", "প", "ল", "স"],
+                    "correct_word_en": "TIGER",
+                    "correct_tiles_en": ["T", "I", "G", "E", "R"],
+                    "jumbled_tiles_en": ["G", "T", "R", "I", "E", "L", "S"]
+                },
+                {
+                    "id": "a_3",
+                    "level_number": 3,
+                    "image_url": "assets/images/animals/cow.png",
+                    "correct_word": "গরু",
+                    "correct_tiles": ["গ", "রু"],
+                    "jumbled_tiles": ["ব", "গ", "ট", "রু", "ম", "হ"],
+                    "correct_word_en": "COW",
+                    "correct_tiles_en": ["C", "O", "W"],
+                    "jumbled_tiles_en": ["W", "D", "C", "O", "M", "B"]
+                }
+            ]
+        },
+        {
+            "category_id": "flowers",
+            "category_name": "ফুল",
+            "category_name_en": "Flowers",
+            "levels": [
+                {
+                    "id": "fl_1",
+                    "level_number": 1,
+                    "image_url": "assets/images/flowers/lotus.png",
+                    "correct_word": "পদ্ম",
+                    "correct_tiles": ["প", "দ্ম"],
+                    "jumbled_tiles": ["দ্ম", "ল", "প", "ক", "র", "ট"],
+                    "correct_word_en": "LOTUS",
+                    "correct_tiles_en": ["L", "O", "T", "U", "S"],
+                    "jumbled_tiles_en": ["T", "L", "S", "O", "U", "R", "M"]
+                },
+                {
+                    "id": "fl_2",
+                    "level_number": 2,
+                    "image_url": "assets/images/flowers/rose.png",
+                    "correct_word": "গোলাপ",
+                    "correct_tiles": ["গো", "লা", "প"],
+                    "jumbled_tiles": ["প", "গো", "ম", "লা", "ব", "ন"],
+                    "correct_word_en": "ROSE",
+                    "correct_tiles_en": ["R", "O", "S", "E"],
+                    "jumbled_tiles_en": ["S", "R", "E", "O", "L", "P"]
+                }
+            ]
+        },
+        {
+            "category_id": "vegetables",
+            "category_name": "শাকসবজি",
+            "category_name_en": "Vegetables",
+            "levels": [
+                {
+                    "id": "v_1",
+                    "level_number": 1,
+                    "image_url": "assets/images/vegetables/potato.png",
+                    "correct_word": "আলু",
+                    "correct_tiles": ["আ", "লু"],
+                    "jumbled_tiles": ["লু", "ক", "আ", "ম", "ব", "গ"],
+                    "correct_word_en": "POTATO",
+                    "correct_tiles_en": ["P", "O", "T", "A", "T", "O"],
+                    "jumbled_tiles_en": ["T", "P", "O", "A", "T", "O", "M"]
+                },
+                {
+                    "id": "v_2",
+                    "level_number": 2,
+                    "image_url": "assets/images/vegetables/eggplant.png",
+                    "correct_word": "বেগুন",
+                    "correct_tiles": ["বে", "গু", "ন"],
+                    "jumbled_tiles": ["গু", "ল", "বে", "ন", "ক", "র"],
+                    "correct_word_en": "BRINJAL",
+                    "correct_tiles_en": ["B", "R", "I", "N", "J", "A", "L"],
+                    "jumbled_tiles_en": ["R", "B", "N", "I", "L", "J", "A"]
+                },
+                {
+                    "id": "v_3",
+                    "level_number": 3,
+                    "image_url": "assets/images/vegetables/carrot.png",
+                    "correct_word": "গাজর",
+                    "correct_tiles": ["গা", "জ", "র"],
+                    "jumbled_tiles": ["র", "গা", "প", "জ", "ম", "ত"],
+                    "correct_word_en": "CARROT",
+                    "correct_tiles_en": ["C", "A", "R", "R", "O", "T"],
+                    "jumbled_tiles_en": ["R", "C", "O", "A", "T", "R", "P"]
+                }
+            ]
+        },
+        {
+            "category_id": "fishes",
+            "category_name": "মাছ",
+            "category_name_en": "Fishes",
+            "levels": [
+                {
+                    "id": "fi_1",
+                    "level_number": 1,
+                    "image_url": "assets/images/fishes/hilsha.png",
+                    "correct_word": "ইলিশ",
+                    "correct_tiles": ["ই", "লি", "শ"],
+                    "jumbled_tiles": ["লি", "ক", "ই", "শ", "র", "ম"],
+                    "correct_word_en": "HILSHA",
+                    "correct_tiles_en": ["H", "I", "L", "S", "H", "A"],
+                    "jumbled_tiles_en": ["L", "H", "S", "I", "A", "H", "R"]
+                },
+                {
+                    "id": "fi_2",
+                    "level_number": 2,
+                    "image_url": "assets/images/fishes/rohu.png",
+                    "correct_word": "রুই",
+                    "correct_tiles": ["রু", "ই"],
+                    "jumbled_tiles": ["ই", "ব", "রু", "ক", "ল", "প"],
+                    "correct_word_en": "ROHU",
+                    "correct_tiles_en": ["R", "O", "H", "U"],
+                    "jumbled_tiles_en": ["H", "R", "U", "O", "F", "S"]
+                }
+            ]
+        }
+    ]
+}
